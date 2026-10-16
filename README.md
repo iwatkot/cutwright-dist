@@ -5,7 +5,7 @@ CutWright is a free local video editor, available in your browser and as a Windo
 - [Open the browser editor](https://iwatkot.github.io/cutwright-dist/)
 - [Download the Windows release candidate](https://github.com/iwatkot/cutwright-dist/releases/download/v0.2.0-rc.4/CutWright-Setup-0.2.0-rc.4.exe)
 - [Release checksums](https://github.com/iwatkot/cutwright-dist/releases/download/v0.2.0-rc.4/SHA256SUMS-0.2.0-rc.4)
-- [Open-source editor](https://github.com/iwatkot/cutwright-editor) · [Website source](https://github.com/iwatkot/cutwright-website)
+- [Open-source editor](https://github.com/iwatkot/cutwright)
 
 Editing and rendering run on your device. Your media stays local; the editor does not require an account, media uploads, a render service, or a paid AI subscription. External agents connect from their own applications through supported browser or local desktop interfaces.
 
