@@ -1,0 +1,51 @@
+{
+  "../../__vite-browser-external": {
+    "file": "assets/__vite-browser-external-BIHI7g3E.js",
+    "name": "__vite-browser-external",
+    "src": "../../__vite-browser-external",
+    "isDynamicEntry": true
+  },
+  "../../node_modules/@ffmpeg/core/dist/esm/ffmpeg-core.js": {
+    "file": "assets/ffmpeg-core-CI9Irx9p.js",
+    "src": "../../node_modules/@ffmpeg/core/dist/esm/ffmpeg-core.js"
+  },
+  "../../node_modules/@ffmpeg/core/dist/esm/ffmpeg-core.wasm": {
+    "file": "assets/ffmpeg-core-CgUfceKH.wasm",
+    "src": "../../node_modules/@ffmpeg/core/dist/esm/ffmpeg-core.wasm"
+  },
+  "../../node_modules/@ffmpeg/ffmpeg/dist/esm/index.js": {
+    "file": "assets/index-Bsyy57cj.js",
+    "name": "index",
+    "src": "../../node_modules/@ffmpeg/ffmpeg/dist/esm/index.js",
+    "isDynamicEntry": true
+  },
+  "index.html": {
+    "file": "assets/index-BsY8Y6_V.js",
+    "name": "index",
+    "src": "index.html",
+    "isEntry": true,
+    "dynamicImports": [
+      "src/lib/browserExport.ts"
+    ],
+    "css": [
+      "assets/index-CZOv3Kka.css"
+    ]
+  },
+  "src/lib/browserExport.ts": {
+    "file": "assets/browserExport-TSoLQCBS.js",
+    "name": "browserExport",
+    "src": "src/lib/browserExport.ts",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html"
+    ],
+    "dynamicImports": [
+      "../../__vite-browser-external",
+      "../../node_modules/@ffmpeg/ffmpeg/dist/esm/index.js"
+    ],
+    "assets": [
+      "assets/ffmpeg-core-CI9Irx9p.js",
+      "assets/ffmpeg-core-CgUfceKH.wasm"
+    ]
+  }
+}

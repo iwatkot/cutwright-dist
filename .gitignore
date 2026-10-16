@@ -1,0 +1,20 @@
+# Compiled browser files and required vendor notices belong in docs/.
+# Keep editor source, private project media, local evidence and credentials out.
+/src/
+/electron/
+/tests/
+/node_modules/
+/projects/
+/screenshots/
+/work/
+/.env
+/.env.*
+/docs/downloads/
+*.exe
+*.cutwright.json
+*.mepx
+*.mepj
+*.pem
+*.key
+*.pfx
+*.log
