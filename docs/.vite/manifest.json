@@ -20,7 +20,7 @@
     "isDynamicEntry": true
   },
   "index.html": {
-    "file": "assets/index-BsY8Y6_V.js",
+    "file": "assets/index-Cw1Z70jL.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -28,11 +28,11 @@
       "src/lib/browserExport.ts"
     ],
     "css": [
-      "assets/index-CZOv3Kka.css"
+      "assets/index-CUBs60yW.css"
     ]
   },
   "src/lib/browserExport.ts": {
-    "file": "assets/browserExport-TSoLQCBS.js",
+    "file": "assets/browserExport-CnGZqiCv.js",
     "name": "browserExport",
     "src": "src/lib/browserExport.ts",
     "isDynamicEntry": true,
